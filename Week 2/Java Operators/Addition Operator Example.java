@@ -1,5 +1,5 @@
 public class Main {
-  public static void main (String[] args) {
+  public static void main(String[] args) {
     int x = 100 + 50;
     int sum1 = 100 + 50;        // 150 (100 + 50)
     int sum2 = sum1 + 250;      // 400 (150 + 250)
